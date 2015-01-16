@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "0e4ee4eb7c1a48f9b7f6a395fbaf8b73", 
+  "language": "eng_GB", 
+  "title": "MIT Education Test", 
+  "image": "611b6879a1094b599649790ecdaad115", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "mit-education-test", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
