@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "7a36c1654b65498e8bd176e7c6a5a858", 
+  "language": "spa_MX", 
+  "title": "Test category", 
+  "image": "66d51250fcfd429c83d751c17aeb16c2", 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "test-category", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
